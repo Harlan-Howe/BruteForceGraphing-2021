@@ -13,7 +13,7 @@ It will then generate a graph, composed of "|" and "-" for the axes, " " for whi
 Because the line may consist of non-integer values, this will necessarily be an approximation of the line - you won't get it perfect (you can't!). The constraints on making a graph this way are what make this interesting….
 
 Getting the starter code. (This is the same as for Numerical Image Decompression, but with a different link.)
-1. Click on this link:  to take you to a page inviting you to the github classroom assignment. You will likely need to log in with your github account.
+1. Click on this link: https://classroom.github.com/a/0Qtz9BMN to take you to a page inviting you to the github classroom assignment. You will likely need to log in with your github account.
 1. If this is your first time doing one of these assignments, you should see a list of names - please pick your own.
 1. There should be a button prompting you to "accept" this assignment.<sup>2</sup>
 1. After a brief pause, you'll get a message saying you're ready to go, with a url on it. Go ahead and click on this URL.
